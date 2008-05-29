@@ -5,7 +5,7 @@ plugin_gemifier
 == DESCRIPTION:
 
 Plugin Gemifier is a tool designed to increase the number of Rails plugins that are distributed
-and managed as gems. It is based in part on Mr Bones (http://codeforpeople.rubyforge.org/bones).
+and managed as gems.
 
 == SYNOPSIS:
 
